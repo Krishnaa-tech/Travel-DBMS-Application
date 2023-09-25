@@ -1,2 +1,3 @@
 # Travel-DBMS-Application
-This is a repository that consists of a project which uses Tkinter GUI library based application for storing the travelling list with the input from the user. The users can mark the destination as from "To visit" --> "Visi"
+>UI
+![Travel](https://github.com/Krishnaa-tech/Travel-DBMS-Application/blob/7bfa673dc6d82949040b3c6acd64dd5573200110/Code/UI.png)
