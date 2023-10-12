@@ -11,4 +11,6 @@
 
 # Travel-DBMS-Application
 >UI
-![Travel](https://github.com/Krishnaa-tech/Travel-DBMS-Application/blob/9075ede00097deeea2fe67f6f2f3d08ed2239781/Code/UI.png)
+![Code/UI.png](https://github.com/Krishnaa-tech/Travel-DBMS-Application/blob/9f61b990b307b445d5f6db11194dcac5650009ac/Code/UI.png)
+
+
